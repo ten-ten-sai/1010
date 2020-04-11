@@ -1,5 +1,3 @@
-#IP address: 90.253.13.159
-
 #import modules
 import pygame
 import random
